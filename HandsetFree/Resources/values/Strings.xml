@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Hello"></string>
+    <string name="SampleButton">Send Sample Notification</string>
+    <string name="CatchNotification">Find Sample Notification</string>
+    <string name="ApplicationName">HandsetFree</string>
+</resources>
