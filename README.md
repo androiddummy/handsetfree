@@ -13,7 +13,7 @@ This SLN contains Three projects.
     It will also handle replying to notifications from Desktop
     
     
-2.) WCF Service that will serve as the brains of the operation. 
+3.) WCF Service that will serve as the brains of the operation. 
     It will receive messages via GCM or WebDav and push them to the Chrome Extension
     It will then receive messages from the chrome extension that it will push to the android app to 
     send. To make sure that multiple different android devices can use this same server, there will be 
