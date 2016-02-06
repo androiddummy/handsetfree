@@ -2,6 +2,7 @@
 Notification mirroring and SMS reply from desktop
 
 This SLN contains Three projects. 
+
 1.) Android application to handle notification listening, sending notifications to the server,
     and that will receive and reply to notifications sent by replying from desktop.
     
